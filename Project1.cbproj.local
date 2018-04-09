@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018.04.09 15:11:09.862,=C:\Users\vashurinvlad\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018.04.09 15:11:09.883,=C:\Users\vashurinvlad\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018.04.09 15:11:27.305,C:\sources\cpp\Projects\VashurinClock.cpp=C:\Users\vashurinvlad\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018.04.09 15:11:27.305,C:\sources\cpp\Projects\VashurinClock.dfm=C:\Users\vashurinvlad\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.04.09 15:11:27.305,C:\sources\cpp\Projects\VashurinClock.h=C:\Users\vashurinvlad\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2018.04.09 15:11:29.924,C:\sources\cpp\Projects\Project1PCH1.h=C:\Users\vashurinvlad\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018.04.09 15:11:50.952,C:\sources\cpp\Projects\Project1.cbproj=C:\Users\vashurinvlad\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
